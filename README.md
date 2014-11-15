@@ -4,9 +4,11 @@ KopiJS branding
 Logo
 ---
 
+![KopiJS logo](http://i.imgur.com/sTxk3TX.png)
+
 The logo comes in four variations:
 
-1. Multi-colored glyph
+1. Multi-colored glyph (displayed above)
 2. Outlined multi-colored glyph
 3. Single-colored glyph
 4. Outlined single-colored glyph
@@ -16,11 +18,11 @@ The 'JS' text is a morphed version of the [JS logo](https://github.com/voodootik
 Colors
 ---
 
-- <b style="background: #6e4228; width: 16px; height: 16px; display: inline-block; vertical-align: middle"></b> `#6e4228` Brown (primary color) - background, outline, 'JS' text
-- <b style="background: #956f5a; width: 16px; height: 16px; display: inline-block; vertical-align: middle"></b> `#956f5a` Light brown - curly brackets, kopi aroma
-- <b style="background: #e9ddd7; width: 16px; height: 16px; display: inline-block; vertical-align: middle"></b> `#e9ddd7` Lighter brown - cup plate
-- <b style="background: #201816; width: 16px; height: 16px; display: inline-block; vertical-align: middle"></b> `#201816` Almost black - kopi
-- <b style="background: #ffffff; width: 16px; height: 16px; display: inline-block; vertical-align: middle; outline: 1px solid #eee;"></b> `#ffffff` White - kopi cup
+- ![](http://i.imgur.com/6Ka8UWA.png) `#6e4228` Brown (primary color) - background, outline, 'JS' text
+- ![](http://i.imgur.com/qF6j1cH.png) `#956f5a` Light brown - curly brackets, kopi aroma
+- ![](http://i.imgur.com/zxRt5jR.png) `#e9ddd7` Lighter brown - cup plate
+- ![](http://i.imgur.com/V0P0741.png) `#201816` Almost black - kopi
+- ![](http://i.imgur.com/z5EJE7x.png) `#ffffff` White - kopi cup
 
 Writing
 ---
