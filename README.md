@@ -13,7 +13,7 @@ The logo comes in four variations:
 3. Single-colored glyph
 4. Outlined single-colored glyph
 
-The 'JS' text is a morphed version of the [JS logo](https://github.com/voodootikigod/logo.js).
+The 'JS' text is a morphed version of the [JS logo](https://github.com/voodootikigod/logo.js). The font used in that logo is probably [Neutra Text Bold](https://github.com/voodootikigod/logo.js/pull/5);
 
 Colors
 ---
