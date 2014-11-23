@@ -31,8 +31,8 @@ The "K" and "JS" in KopiJS are always capitalized. Capitalization is optional wh
 
 ### Correct
 
-- KopiJS (prefered)
-- Kopi.JS
+- Kopi.JS (prefered)
+- KopiJS (also prefered)
 - kopi.js
 - Kopi.js
 
@@ -42,6 +42,7 @@ The "K" and "JS" in KopiJS are always capitalized. Capitalization is optional wh
 - kopijs
 - kopi js
 - kopiijs
+- kopiio
 
 License
 ---
