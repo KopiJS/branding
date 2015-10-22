@@ -44,6 +44,11 @@ The "K" and "JS" in KopiJS are always capitalized. Capitalization is optional wh
 - kopiijs
 - kopiio
 
+Merchandise
+---
+
+[![](https://d21ii91i3y6o6h.cloudfront.net/gallery_images/from_proof/3326/large/1417097231/kopi-dot-js.png)<br>Kopi.JS sticker on StickerMule](https://www.stickermule.com/marketplace/3326-kopi-dot-js-sticker)
+
 License
 ---
 
